@@ -32,7 +32,7 @@ This project adheres to a code of conduct that all contributors are expected to 
 2. Clone your fork locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/node-stdio-jsonrpc.git
+git clone https://github.com/gnana997/node-stdio-jsonrpc.git
 cd node-stdio-jsonrpc
 ```
 
