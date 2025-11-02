@@ -10,7 +10,7 @@
   },
   "overrides": [
     {
-      "include": ["tests/fixtures/**/*"],
+      "include": ["tests/fixtures/**/*", "examples/**/*"],
       "linter": {
         "rules": {
           "complexity": {
